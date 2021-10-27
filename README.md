@@ -9,7 +9,7 @@ i'm just the average github user. femboy, probably.
 
 #### Now Listening To
 
-![Spotify Now Playing](https://spotify-github-profile.vercel.app/api/view.svg?uid=ax54qo5ows0hqrdgicwgfbqj8&cover_image=true&theme=compact)
+![Spotify Now Playing](https://spotify-github-profile.vercel.app/api/view.svg?uid=ax54qo5ows0hqrdgicwgfbqj8&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)
 
 #### Other Notes
 
