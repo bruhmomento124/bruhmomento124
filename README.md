@@ -7,4 +7,4 @@ i'm just the average github user. femboy, probably.
 
 i mainly use github to collaborate with other people so don't expect many public repositories 
 
-[[https://github.com/kittinan/spotify-github-profile][https://spotify-github-profile.vercel.app/api/view.svg?uid=ax54qo5ows0hqrdgicwgfbqj8&cover_image=true&theme=compact)]]
+[https://github.com/kittinan/spotify-github-profile](https://spotify-github-profile.vercel.app/api/view.svg?uid=ax54qo5ows0hqrdgicwgfbqj8&cover_image=true&theme=compact)
