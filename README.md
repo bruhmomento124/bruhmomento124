@@ -1,7 +1,7 @@
 ### hello!!
 
 
-i'm just the average github user. femboy, probably.
+i'm just the average github user. 
 
 #### My Github Stats
 
